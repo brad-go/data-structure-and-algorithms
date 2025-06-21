@@ -14,8 +14,8 @@ Hello World!를 출력하시오.
 
 ## Classification
 
-- [구현](../README.md)
+- [구현](../README.md/#implemenation)
 
 ## Level
 
-- [Bronze 5](../../../boj/README.md/#bronze-5)
+- [Bronze 5](../../boj/README.md/#bronze-5)
