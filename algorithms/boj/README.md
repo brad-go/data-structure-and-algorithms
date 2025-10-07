@@ -5,6 +5,7 @@
 - [Classification](#classfication)
   - [Math](#math)
   - [Implementation](#implemenation)
+  - [Bruteforcing](#bruteforcing)
 - [Level](#level)
   - [Bronze 3](#bronze-3)
   - [Bronze 5](#bronze-5)
@@ -17,6 +18,7 @@
 
 - [1000 - A+B](./1000/README.md)
 - [1008 - A/B](./1008/README.md)
+- [2501 - 약수 구하기](./2501/README.md)
 - [2525 - 오븐 시계](./2525/README.md)
 - [2739 - 구구단](./2739/README.md)
 - [2884 - 알람 시계](./2884/README.md)
@@ -42,10 +44,17 @@
 - [11382 - 꼬마 정민](./11382/README.md)
 - [14681 - 사분면 고르기](./14681/README.md)
 
+### Bruteforcing
+
+브루트포스 알고리즘(Bruteforcing)이란 **문제의 가능한 모든 해답 후보를 하나씩 체계적으로 검사하여 문제에 맞는 답을 찾는 알고리즘 기법**입니다. 모든 경우의 수를 탐색하기 때문에 100%의 정확성을 보장하지만, 가능한 해답의 수가 많으면 처리해야 할 경우의 수도 기하급수적으로 늘어나 높은 시간 복잡도를 가지게 됩니다.
+
+- [2501 - 약수 구하기](./2501/README.md)
+
 ## Level
 
 ### Bronze 3
 
+- [2501 - 약수 구하기](./2501/README.md)
 - [2525 - 오븐 시계](./2525/README.md)
 - [2884 - 알람 시계](./2884/README.md)
 
