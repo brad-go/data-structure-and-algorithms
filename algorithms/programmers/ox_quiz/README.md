@@ -60,7 +60,14 @@ function solution(quiz) {
 ## 개선
 
 ```js
+return quiz.map((expression) => {
+  const [x, operator, y, _, z] = expression.split(" ");
 
+  const result =
+    operator === "+" ? Number(x) + Number(y) : Number(x) - Number(y);
+
+  return result == Number(z) ? "O" : "X";
+});
 ```
 
 ## Classification
