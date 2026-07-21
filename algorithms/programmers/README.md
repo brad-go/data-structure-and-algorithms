@@ -7,6 +7,7 @@
   - [Classification](#classification)
     - [Implementation](#implementation)
     - [Bruteforcing](#bruteforcing)
+    - [String](#string)
   - [Level](#level)
     - [Level 0](#level-0)
 
@@ -22,8 +23,13 @@
 
 - [옹알이 (1)](./babbling/README.md)
 
+### String
+
+- [문자열 계산하기](./calculate_string/README.md)
+
 ## Level
 
 ### Level 0
 
 - [옹알이 (1)](./babbling/README.md)
+- [문자열 계산하기](./calculate_string/README.md)
