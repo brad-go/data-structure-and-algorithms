@@ -73,7 +73,6 @@ function solution(my_string) {
 
 ## Classification
 
-- [구현](../README.md/#implemenation)
 - [문자열](../README.md/#string)
 
 ## Level

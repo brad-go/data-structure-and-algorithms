@@ -130,8 +130,7 @@ function solution(babbling) {
 
 ## Classification
 
-- [완전탐색](../README.md/#bruteforcing)
-- [구현](../README.md/#implemenation)
+- [문자열](../README.md/#implementation)
 
 ## Level
 

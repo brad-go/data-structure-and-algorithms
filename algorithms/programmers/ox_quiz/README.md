@@ -72,7 +72,6 @@ return quiz.map((expression) => {
 
 ## Classification
 
-- [구현](../README.md/#implemenation)
 - [문자열](../README.md/#string)
 
 ## Level
