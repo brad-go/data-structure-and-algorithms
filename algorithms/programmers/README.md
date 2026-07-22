@@ -18,6 +18,7 @@
 - [옹알이 (1)](./babbling/README.md)
 - [문자열 계산하기](./calculate_string/README.md)
 - [OX퀴즈](./ox_quiz/README.md)
+- [숨어있는 숫자의 덧셈](./addition_of_hidden_numbers/README.md)
 
 ### Bruteforcing
 
@@ -29,6 +30,7 @@
 
 - [문자열 계산하기](./calculate_string/README.md)
 - [OX퀴즈](./ox_quiz/README.md)
+- [숨어있는 숫자의 덧셈](./addition_of_hidden_numbers/README.md)
 
 ## Level
 
@@ -37,3 +39,4 @@
 - [옹알이 (1)](./babbling/README.md)
 - [문자열 계산하기](./calculate_string/README.md)
 - [OX퀴즈](./ox_quiz/README.md)
+- [숨어있는 숫자의 덧셈](./addition_of_hidden_numbers/README.md)
